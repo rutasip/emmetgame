@@ -1,0 +1,16 @@
+{
+  "name": "emmetgame",
+  "version": "1.0.0",
+  "description": "> Simple app to practice fast code typing with Emmet. Official website: https://emmet.io/.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hompepage": "https://rutasip.github.io/emmetgame",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
