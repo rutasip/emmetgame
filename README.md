@@ -6,7 +6,7 @@
 
 Run index.html in a browser
 
-Try it - [Emmet Game](https://rutasip.github.io/emmetgame)
+Try it - [Emmet Game](https://rutasip.github.io/emmetgame/)
 
 ## App Info
 
